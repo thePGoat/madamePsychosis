@@ -1,5 +1,7 @@
 # Projects
 
+Follow these [tutorials](https://wiki.parity.io/WebAssembly-Links.html) from Parity on compiling Rust contracts to WASM (relevant repos are starred as well). 
+
 * [File Encryption](#fileEncryption)
 * [Parity](#parity)
 * [ZCash](#zcash)
