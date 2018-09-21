@@ -2,17 +2,15 @@
 
 Follow these [tutorials](https://wiki.parity.io/WebAssembly-Links.html) from Parity on compiling Rust contracts to WASM (relevant repos are starred as well). 
 
-* [File Encryption](#fileEncryption)
-* [Parity](#parity)
+Thereafter, follow [The Rusty Web](https://davidmcneil.github.io/the-rusty-web/) tutorial for targeting the web (WASM) for Rust.
+
+<!-- * [Parity](#parity)
 * [ZCash](#zcash)
 * [Grin/MimbleWimble](#grin)
-* [Substrate](#substrate)
+* [Substrate](#substrate) -->
 
-## File Encryption <a name="fileEncryption"></a>
-* command line tool for file encryption
 
 ## Parity <a name="parity"></a>
-* coding in Rust on the Parity Ethereum client (consider contributing to the systems codebase)
 
 ## ZCash <a name="zcash"></a>
 
