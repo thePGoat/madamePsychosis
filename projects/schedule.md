@@ -1,19 +1,30 @@
 # Projects
-
-Follow these [tutorials](https://wiki.parity.io/WebAssembly-Links.html) from Parity on compiling Rust contracts to WASM (relevant repos are starred as well). 
-
-Thereafter, follow [The Rusty Web](https://davidmcneil.github.io/the-rusty-web/) tutorial for targeting the web (WASM) for Rust.
-
-<!-- * [Parity](#parity)
-* [ZCash](#zcash)
-* [Grin/MimbleWimble](#grin)
-* [Substrate](#substrate) -->
+* [Learning Rust](#learning)
+* [WASM](#wasm)
+* [BLOCKCHAIN](#blockchain)
+* [DEEP LEARNING](#deeplearning)
+* [Random](#random)
 
 
-## Parity <a name="parity"></a>
+## Learning Rust <a name="learning"></a>
+Start with [The Book](https://doc.rust-lang.org/book/), then [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/). Consider building a small personal project while you're learning the language -- this preferrably should not be something *cutting edge*. It is better to start with something small and iteratively add to it instead of setting lofty, unrealistic goals from the start. 
 
-## ZCash <a name="zcash"></a>
+* [Rust Error Handling Intro](https://brson.github.io/2016/11/30/starting-with-error-chain)
 
-## Grin/MimbleWimble <a name="grin"></a>
+For my first project, I'll be working with the [Rust Lang Nursery Markdown Book Generator](https://github.com/rust-lang-nursery/mdBook).
 
-## Substrate <a name="substrate"></a>
+## WASM <a name="wasm"></a>
+* [Parity WASM resources](https://wiki.parity.io/WebAssembly-Links.html)
+* [The Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
+
+## BLOCKCHAIN <a name="blockchain"></a>
+* [Parity Substrate](https://wiki.parity.io/Parity-Substrate)
+* ZCash
+* Grin/MimbleWimble
+
+## DEEP LEARNING <a name="deeplearning"></a>
+* [Juice](https://github.com/spearow/juice)
+
+## Random <a name="random"></a>
+* Use Rust-lang-nursery to become proficient at binding C++ libraries for Rust applications
+* Focus on graph-based databases and graph algorithms
