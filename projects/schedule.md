@@ -10,6 +10,7 @@
 Start with [The Book](https://doc.rust-lang.org/book/), then [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/). Consider building a small personal project while you're learning the language -- this preferrably should not be something *cutting edge*. It is better to start with something small and iteratively add to it instead of setting lofty, unrealistic goals from the start. 
 
 * [Rust Error Handling Intro](https://brson.github.io/2016/11/30/starting-with-error-chain)
+* [Steve Donovan's Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 For my first project, I'll be working with the [Rust Lang Nursery Markdown Book Generator](https://github.com/rust-lang-nursery/mdBook).
 
