@@ -29,3 +29,4 @@ For my first project, I'll be working with the [Rust Lang Nursery Markdown Book 
 ## Random <a name="random"></a>
 * Use Rust-lang-nursery to become proficient at binding C++ libraries for Rust applications
 * Focus on graph-based databases and graph algorithms
+* [24 days or Rust](http://zsiciarz.github.io/24daysofrust/index.html)
