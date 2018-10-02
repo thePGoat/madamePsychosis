@@ -19,6 +19,7 @@ For my first project, I'll be working with the [Rust Lang Nursery Markdown Book 
 * [The Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 
 ## BLOCKCHAIN <a name="blockchain"></a>
+> a good exercise is to build a simple multisig in Rust (consider basically transalting Stefan George's Gnosis Multisig with the Parity Wallet)
 * [Parity Substrate](https://wiki.parity.io/Parity-Substrate)
 * ZCash
 * Grin/MimbleWimble
