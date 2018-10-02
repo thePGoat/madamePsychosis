@@ -12,6 +12,7 @@ Start with [The Book](https://doc.rust-lang.org/book/), then [The Rust Cookbook]
 * [Rust Error Handling Intro](https://brson.github.io/2016/11/30/starting-with-error-chain)
 * [Steve Donovan's Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * [Tutorials (may be outdated)](http://aml3.github.io/RustTutorial/html/toc.html)
+* [Recent Stanford OS Class](https://web.stanford.edu/class/cs140e/syllabus/#schedule)
 
 For my first project, I'll be working with the [Rust Lang Nursery Markdown Book Generator](https://github.com/rust-lang-nursery/mdBook).
 
