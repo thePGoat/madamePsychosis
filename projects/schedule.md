@@ -15,7 +15,7 @@ Start with [The Book](https://doc.rust-lang.org/book/), then [The Rust Cookbook]
 * [Recent Stanford OS Class](https://web.stanford.edu/class/cs140e/syllabus/#schedule)
 * [Some other OS Class](http://ozark.hendrix.edu/~ferrer/courses/os/)
 
-For my first project, I'll be working with the [Rust Lang Nursery Markdown Book Generator](https://github.com/rust-lang-nursery/mdBook).
+Interesting project that I may later use to organize my notes: [Rust Lang Nursery Markdown Book Generator](https://github.com/rust-lang-nursery/mdBook).
 
 ## WASM <a name="wasm"></a>
 * [Parity WASM resources](https://wiki.parity.io/WebAssembly-Links.html)
